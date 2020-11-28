@@ -1,2 +1,1 @@
-# thanksgiving-dinner
- 
+A simple repository to learn python in thanksgiving spirit
