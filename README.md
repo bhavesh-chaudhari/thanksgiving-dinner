@@ -3,7 +3,7 @@ A simple repository to learn python in thanksgiving spirit.
 ## Problem Description:
 
 1. A family has `n` number of members. 
-2. They are arranging a thanksgiving dinner party.
+2. The family head is arranging a thanksgiving dinner party.
 3. Invitations have been sent out and have been answered with additional info about any possible guests (guest = not a member of the family).
 4. The family head wants to know:
     1. Which members are attending the dinner party
